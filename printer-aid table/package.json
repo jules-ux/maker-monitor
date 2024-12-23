@@ -11,6 +11,7 @@
   "dependencies": {
     "@coreui/vue": "^5.4.1",
     "@vercel/speed-insights": "^1.1.0",
+    "@vue/cli-service": "^3.3.1",
     "firebase": "^11.0.2",
     "pubnub": "^8.3.1",
     "vite-plugin-vuetify": "^2.0.4",
@@ -20,7 +21,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.4",
-    "@vue/cli-service": "^5.0.8",
     "vite": "^5.4.10",
     "vite-plugin-vue-devtools": "^7.5.4"
   }
