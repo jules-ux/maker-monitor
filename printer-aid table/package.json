@@ -4,9 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "now-dev": "",
+    "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "@coreui/vue": "^5.4.1",
