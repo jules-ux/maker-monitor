@@ -4,8 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "serve": "vite",
-    "build": "vite build",
+    "serve": "vite", 
+    "build": "vite build", 
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
